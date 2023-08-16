@@ -27,7 +27,7 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('api/',include('littlelemonAPI.urls')),
     path('restaurant/', include('restaurant.urls')),
-    path('restaurant/booking/', include(router.urls)),
+    path('restaurant/book/', include(router.urls)),
     path('api/',include('littlelemonAPI.urls')),
     path('auth/', include('djoser.urls.authtoken')),
     path('auth/', include('djoser.urls')),
