@@ -1,5 +1,8 @@
 # LittleLemon
 Meta Backend Developer Capstone project<br>
+
+**API endpoints**
+
 /api/api-token-auth/ # accept POST method, test restframework built-in Tokenbased authentication<br>
 /auth/users/  # to register new user <br>
 /auth/token/login  # to obtain user token <br>
