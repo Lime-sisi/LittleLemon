@@ -1,6 +1,6 @@
 # LittleLemon
 Meta Backend Developer Capstone project<br>
-/api/api-token-auth/ # accept POST method, test restframework built-in Tokenbased authentication
+/api/api-token-auth/ # accept POST method, test restframework built-in Tokenbased authentication<br>
 http://127.0.0.1:/auth/users/  # to register new user <br>
 httpl/auth/token/login  # to obtain user token <br>
 /restaurant/menu/<int: pk> # view,update,and delete single menu item <br>
