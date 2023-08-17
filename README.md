@@ -9,7 +9,7 @@ http://127.0.0.1:8000/restaurant/book/tables/ # post booking record, token neede
 http://127.0.0.1:8000/restaurant/ #check to serve static files
 
 ---admin info---
-superuser: sisi
+superuser: sisi \n
 password: hallwaycat!
 
 --another user---
